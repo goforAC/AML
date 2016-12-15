@@ -1,0 +1,3 @@
+[submodule "MPLAnimator"]
+	path = MPLAnimator
+	url = git@github.com:ahoereth/MPLAnimator.git
